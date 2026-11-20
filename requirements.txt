@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.24
+plotly>=5.20
+sqlalchemy>=2.0
+openpyxl>=3.1
+
+# Add the driver for your database if using "Live database" mode, e.g.:
+# psycopg2-binary   # PostgreSQL
+# pymysql           # MySQL
